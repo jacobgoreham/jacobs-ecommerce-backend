@@ -22,6 +22,10 @@ Homewor- I mean this was made for the purpose to help people anywhere who are in
 To install this application for yourself simply clone this repo or copy and paste the code into your local computer. Open your terminal. After doing so run install by running `npm install i`.
 After installing be sure to go into your mysql by running `mysql -u root` and sourcing the schema.sql by using `source schema.sql;` After you've done this you'll be able to seed your seeds by exiting mysql using `exit` and running the seeds folder with `node seeds` Now that you've successfully seeded and sourced everything, your able to run your server by using `npm start` and start testing your routes!
 
+
+https://user-images.githubusercontent.com/117858398/227428506-8117f2e7-ff33-466f-8b81-54d6b8efc39d.mov
+
+
 ## [License](#table-of-contents)
 
 The application is covered under the following license:
